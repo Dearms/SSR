@@ -1,0 +1,13 @@
+{
+    "server": "64.137.244.13",
+    "server_port": 137,
+    "local_address": "127.0.0.1",
+    "local_port": 1080,
+    "password": "1123",
+    "timeout": 300,
+    "method": "chacha20",
+    "protocol": "auth_sha1",
+    "protocol_param": "",
+    "obfs": "http_simple",
+    "obfs_param": "wap.gd.10086.cn"
+}
